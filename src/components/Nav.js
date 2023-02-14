@@ -1,6 +1,6 @@
 import React from 'react'
 import menu from "../assets/menu.png";
-import { to,Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 const  Nav = () => {
   return (
     <div className='nav'>
